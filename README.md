@@ -92,19 +92,20 @@ ANN Loss & Accuracy:
 
 CNN Loss & Accuracy:
 ![image](images/cnn_accuracy_curve.png)
-![image](images/model_loss_curve.png)
+![image](images/cnn_loss_curve.png)
 
 The CNN converges faster and achieves higher accuracy.
 
 2. Confusion Matrix
-
+![image](images/confusion_matrix.png)
 Most classes are predicted correctly. Minor confusion occurs between visually similar items (e.g., T-shirt vs Shirt).
 
-3. Sample Predictions
-
+4. Sample Predictions
+![image](images/sample_prediction.png)
 Demonstrates the CNN generalizes well on unseen test images.
 
-4. Sample Data (Optional)
+5. Sample Data (Optional)
+![image](images/sample_data.png)
 
 🚀 Results
 Model	Test Accuracy
@@ -153,5 +154,6 @@ Jupyter Notebook / VS Code
 🔗 References
 
 Fashion MNIST GitHub
+
 
 Keras Documentation
