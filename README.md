@@ -97,7 +97,7 @@ CNN Loss & Accuracy:
 The CNN converges faster and achieves higher accuracy.
 
 2. Confusion Matrix
-![image](images/confusion_matrix.png)
+![image](images/cnn_confusion_matrix.png)
 Most classes are predicted correctly. Minor confusion occurs between visually similar items (e.g., T-shirt vs Shirt).
 
 4. Sample Predictions
@@ -157,3 +157,4 @@ Fashion MNIST GitHub
 
 
 Keras Documentation
+
