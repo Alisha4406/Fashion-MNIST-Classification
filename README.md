@@ -6,6 +6,7 @@ The goal is to compare the performance of ANN vs CNN and visualize model evaluat
 The dataset is automatically downloaded and loaded using Keras.
 
 🗂 Project Structure
+```
 Fashion-MNIST-Classification/
 │
 ├── notebooks/
@@ -26,7 +27,7 @@ Fashion-MNIST-Classification/
 ├── best_model.h5
 ├── README.md
 └── requirements.txt
-
+```
 🧠 Dataset
 
 Dataset: Fashion MNIST
@@ -157,4 +158,5 @@ Fashion MNIST GitHub
 
 
 Keras Documentation
+
 
